@@ -7,36 +7,29 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-
 - [Author](#author)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
+Simple QR Code component made for the Frontend Mentor Challenge
+
 ### Screenshot
 
-![](./screenshot.jpg)
+![](images/screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Solution URL: [Solution Repo](https://github.com/KennedyBarreto/qr-code-component)
+- Live Site URL: [Live Site](https://kennedybarreto.github.io/qr-code-component/)
 
 ### Built with
 
 - HTML5
 - CSS
 
-### What I learned
-
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- [Github](https://github.com/KennedyBarreto)
+- [LinkedIn](https://www.linkedin.com/in/kennedy-barreto/)
+- [Twitter] (https://twitter.com/isnt_kennedy)
