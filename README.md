@@ -16,7 +16,7 @@ Simple QR Code component made for the Frontend Mentor Challenge
 
 ### Screenshot
 
-![](images/screenshot.jpg)
+<img src="images/screenshot.png" alt="ZapLink Homepage" />
 
 ### Links
 
@@ -32,4 +32,4 @@ Simple QR Code component made for the Frontend Mentor Challenge
 
 - [Github](https://github.com/KennedyBarreto)
 - [LinkedIn](https://www.linkedin.com/in/kennedy-barreto/)
-- [Twitter] (https://twitter.com/isnt_kennedy)
+- [Twitter](https://twitter.com/isnt_kennedy)
